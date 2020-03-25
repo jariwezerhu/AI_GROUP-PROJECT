@@ -85,6 +85,6 @@ def schrijven():
 
     # inhoud_producten()
     # inhoud_profiles()
-    inhoud_sessions()
+    # inhoud_sessions()
     print("Finished creating the product database contents.")
 schrijven()
