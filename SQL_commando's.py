@@ -24,4 +24,4 @@ def maak_tabel():
     cursor.execute(sqlCreateTable)
     postgresConnection.commit()
 
-maak_tabel
+maak_tabel()
